@@ -7,11 +7,11 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc20-mint-token.git
+git clone https://github.com/Diimzyyy/Moonlight-ERC.git
 ```
 
 ```
-cd swisstronik-erc20-mint-token
+cd Moonlight-ERC
 ```
 
 ### 2. Install Dependency
